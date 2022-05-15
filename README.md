@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![IMG](https://activity-graph.herokuapp.com/graph?username=dakshsethi&theme=minimal)
+![IMG](https://activity-graph.herokuapp.com/graph?username=dakshsethi&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=dakshsethi)
